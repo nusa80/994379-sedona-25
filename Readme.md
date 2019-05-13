@@ -1,8 +1,7 @@
-# Личный проект «Седона»
+﻿# Личный проект «Седона»
 
 * Студент: [Марина Бугаева](https://up.htmlacademy.ru/htmlcss/25/user/994379).
-* Наставник: [Ольга_Поликашина](https://htmlacademy.ru/profile/id890283).
-
+* Наставник: [Ольга Поликашина](https://htmlacademy.ru/profile/id890283).
 
 ---
 
